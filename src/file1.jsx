@@ -72,7 +72,7 @@ function App() {
                         variant="contained"
                         style={{ background: theme.palette.success.main }}
                     >
-                        Success{" "}
+                        Sucss{" "}
                     </Button>
                     <br />
                     <br />
